@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hiral B
 - 👀 I’m interested in embedded systems.
-- 🌱 I’m currently learning programming languages & micro-processors & controllers.
+- 🌱 I’m currently learning programming languages, micro-processors & controllers.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me?--https://www.linkedin.com/in/hiral-bhatt-35338b1a9/
 
